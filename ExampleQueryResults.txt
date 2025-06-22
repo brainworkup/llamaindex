@@ -1,0 +1,9 @@
+--- Example Query Results ---
+
+Query: Summarize what intolerance of uncertainty is.
+Response: Intolerance of uncertainty refers to the emotional discomfort and distress experienced when faced with ambiguous or uncertain situations. Research indicates that this construct is a significant factor in various emotional and anxiety disorders. It involves a difficulty in tolerating uncertainty, which can lead to increased anxiety and avoidance behaviors. Studies have explored the theoretical and practical implications of this concept, including its role in the development and maintenance of anxiety, and have developed measures such as the Intolerance of Uncertainty Scale to assess this phenomenon. Additionally, there is a growing interest in understanding how intolerance of uncertainty intersects with other cognitive factors, like anxiety sensitivity, to influence fundamental fears and emotional processing.
+
+Query: What is the relationship between uncertainty and mental health?
+Response: The relationship between uncertainty and mental health is complex, with most studies indicating that uncertainty generally has a negative impact on mental health, often leading to experiences of anxiety, depression, stress, sadness, fear, anger, and hopelessness. However, some individuals and groups view uncertainty more positively, seeing it as a source of hope, optimism, potential, and even psychosocial growth. These positive perceptions can fluctuate and may turn negative if circumstances worsen.
+
+--- Enter your queries (type 'exit' to quit) ---
