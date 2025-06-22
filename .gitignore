@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+__pycache__/
+references/
+.history/
+.venv
+alfred_chroma_db/
