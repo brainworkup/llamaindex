@@ -1,0 +1,14 @@
+# Core dependencies
+python-dotenv>=1.0.0
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+llama-index-llms-huggingface>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
+transformers>=4.37.0
+torch>=2.1.0
+sentence-transformers>=2.2.2
+
+# Optional dependencies
+pypdf>=3.15.1
+docx2txt>=0.8
+pillow>=10.0.0

@@ -5,3 +5,4 @@ references/
 .history/
 .venv
 alfred_chroma_db/
+.env
