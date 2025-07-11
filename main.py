@@ -104,6 +104,9 @@ except Exception as e:
     # Evaluation and observability
     from llama_index.core.evaluation import FaithfulnessEvaluator
 
+    # Evaluation and observability
+    from llama_index.core.evaluation import FaithfulnessEvaluator
+
     # Use the previously defined query_engine and llm
     # Evaluate the faithfulness of responses
     print("\n--- Evaluating Response Faithfulness ---")
